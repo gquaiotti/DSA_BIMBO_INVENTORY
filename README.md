@@ -21,12 +21,29 @@ Para a construção desse projeto, recomendamos a utilização da linguagem R e 
 
 Scripts:
 
-1 - bimbo_explore.R - data exploration
-2 - bimbo_transform.R - transform
-3 - bimbo_clear.R - remove outliers
-4 - bimbo_features.R - add new features
-5 - bimbo_split.R - split train in train/test datasets
-6 - bimbo_train.R - fit linear regression models
-7 - bimbo_evaluate.R - evaluate the models 
-8 - bimbo_final_train.R - fit the selected model
-9 - bimbo_test.R - generate the submit file
+# 1 - bimbo_explore.R
+>> data exploration
+
+# 2 - bimbo_transform.R
+>> transform
+
+# 3 - bimbo_clear.R
+>> remove outliers;
+
+# 4 - bimbo_features.R
+>> add new features;
+
+# 5 - bimbo_split.R
+>> split train in train/test datasets;
+
+# 6 - bimbo_train.R
+>> fit linear regression models;
+
+# 7 - bimbo_evaluate.R
+>> evaluate the models;
+
+# 8 - bimbo_final_train.R
+>> fit the selected model;
+
+# 9 - bimbo_test.R
+>> generate the submit file;
